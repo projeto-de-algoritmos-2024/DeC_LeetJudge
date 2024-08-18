@@ -21,15 +21,13 @@ O video de apresentação pode ser encontrado em [link]()
 
 ![img4](assets/img4.png)
 
+**Questão 315 após submição**
+
+![img315](assets/img315.png)
 
 **Questão 493 após submição**
 
 ![img493](assets/img493.png)
-
-
-**Questão XXX após submição**
-
-![imgXXX](assets/imgXXX.png)
 
 
 **Questão XXX após submição**
