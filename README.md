@@ -21,6 +21,10 @@ O video de apresentação pode ser encontrado em [link]()
 
 ![img4](assets/img4.png)
 
+**Questão XXX após submição**
+
+![img215](assets/img215.png)
+
 **Questão 315 após submição**
 
 ![img315](assets/img315.png)
@@ -28,11 +32,6 @@ O video de apresentação pode ser encontrado em [link]()
 **Questão 493 após submição**
 
 ![img493](assets/img493.png)
-
-
-**Questão XXX após submição**
-
-![imgXXX](assets/imgXXX.png)
 
 
 ## Instalação
@@ -47,8 +46,8 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 As questões são:
 
 - [Questão 4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+- [Questão 215](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [Questão 315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 - [Questão 493](https://leetcode.com/problems/reverse-pairs/description/)
-- [Questão XXX]()
-- [Questão XXX]()
 
 Alternativamente você pode ter o Python instalado e executar os arquivos de teste.
