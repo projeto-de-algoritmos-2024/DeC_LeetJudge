@@ -17,9 +17,9 @@ O video de apresentação pode ser encontrado em [link]()
 
 ## Screenshots
 
-**Questão XXX após submição**
+**Questão 493 após submição**
 
-![imgXXX](assets/imgXXX.png)
+![img493](assets/img493.png)
 
 
 **Questão XXX após submição**
@@ -48,7 +48,7 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 
 As questões são:
 
-- [Questão XXX]()
+- [Questão 493](https://leetcode.com/problems/reverse-pairs/description/)
 - [Questão XXX]()
 - [Questão XXX]()
 - [Questão XXX]()
