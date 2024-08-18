@@ -17,14 +17,14 @@ O video de apresentação pode ser encontrado em [link]()
 
 ## Screenshots
 
+**Questão 4 após submição**
+
+![img4](assets/img4.png)
+
+
 **Questão 493 após submição**
 
 ![img493](assets/img493.png)
-
-
-**Questão XXX após submição**
-
-![imgXXX](assets/imgXXX.png)
 
 
 **Questão XXX após submição**
@@ -48,8 +48,8 @@ Você pode apenas entrar na questão especifica do juiz virtual e fazer a submi�
 
 As questões são:
 
+- [Questão 4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 - [Questão 493](https://leetcode.com/problems/reverse-pairs/description/)
-- [Questão XXX]()
 - [Questão XXX]()
 - [Questão XXX]()
 
