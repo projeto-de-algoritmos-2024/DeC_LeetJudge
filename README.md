@@ -10,7 +10,7 @@
 | 21/1031468 | Pedro Victor Salerno Martins    |
 
 ## Sobre 
-Resolver duas questões dificeis e duas media utilizando os conceitos de Dividir e Conquistar aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
+Resolver tres questões dificeis e uma media utilizando os conceitos de Dividir e Conquistar aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
 
 ## Video de apresentação
 O video de apresentação pode ser encontrado em [link]()
