@@ -13,7 +13,7 @@
 Resolver tres questões dificeis e uma media utilizando os conceitos de Dividir e Conquistar aprendidos na disciplina de Projetos de Algoritimos da Universidade de Brasilia.
 
 ## Video de apresentação
-O video de apresentação pode ser encontrado em [link]()
+O video de apresentação pode ser encontrado em [link](https://youtu.be/bhFX5glxhr0)
 
 ## Screenshots
 
